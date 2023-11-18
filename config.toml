@@ -35,5 +35,4 @@ build-mode = "module"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-apkmirror-arch = "arm64-v8a"
 build-mode = "both"
